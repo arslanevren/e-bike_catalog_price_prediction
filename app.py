@@ -2,7 +2,6 @@ import streamlit as st
 import joblib
 import pandas as pd
 
-
 st.sidebar.title('E-Bike Price Prediction')
 html_temp = """
 <div style="background-color:orange;padding:10px">
