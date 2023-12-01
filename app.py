@@ -4,9 +4,10 @@ import pandas as pd
 
 st.sidebar.title('E-Bike Price Prediction')
 html_temp = """
-<div style="background-color:orange;padding:10px">
-<h2 style="color:white;text-align:center;">Coding Book ML Solutions</h2>
+<div style="background-color:#aedcff; padding:10px;">
+  <h2 style="color:#8310a9; text-align:center;">Datarithmus & Coding Book ML Solutions</h2>
 </div>"""
+
 st.markdown(html_temp, unsafe_allow_html=True)
 
 
